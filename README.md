@@ -6,11 +6,13 @@
 
 ## 🎥 Demo Video
 
-Watch it here:
+[![Watch the Demo Video](https://img.youtube.com/vi/LO6UUpuLDlM/hqdefault.jpg)](https://www.youtube.com/watch?v=LO6UUpuLDlM)
 
-[![Watch the demo video][(https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)](https://www.youtube.com/watch?v=LO6UUpuLDlM)
+> 🔗 Click the image above to watch the full demonstration on YouTube.
 
-
+📦 [Download Demo Video (MP4)](https://github.com/RuijieThranduil/Draw-Your-City/releases/download/untagged-56ce0263d20fc3e9f581/AD.Pro.Version.mp4)
+   [Download Demo Video (MP4)](https://github.com/RuijieThranduil/Draw-Your-City/releases/download/untagged-56ce0263d20fc3e9f581/Ui.Prototype.on-Site.testing.video.mp4)
+   
 ## 📌 Project Overview
 
 **Draw Your City** is a Unity-based interactive design tool that empowers citizens to participate in reimagining their urban environment.
