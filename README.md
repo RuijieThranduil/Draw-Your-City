@@ -31,7 +31,12 @@
 
 ## 📬 Contact
 📧 ruijiema944@gmail.com  
-📍 TUM Department of Architecture
+📍 Technical University of Munich
+
+---
+
+> Snap, Sketch, Explore.  
+> Your City, Your Vision.
 
 ---
 
