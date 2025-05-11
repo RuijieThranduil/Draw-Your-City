@@ -4,8 +4,12 @@
 📱 **Developed for Android platform**  
 🧠 **AI + AR-powered participatory tool for urban facade and street co-design**
 
+## 🎥 Demo Video
 
----
+Watch it here:
+
+[![Watch the demo video][(https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)](https://www.youtube.com/watch?v=LO6UUpuLDlM)
+
 
 ## 📌 Project Overview
 
